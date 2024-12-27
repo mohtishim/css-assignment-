@@ -1,0 +1,48 @@
+.center{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+hr{
+    border-top: 2px solid black;
+    
+}
+
+td{
+    width: 33.33%;
+    text-align: justify;
+    padding: 10px;
+    height: 100%;
+}
+
+p{
+text-indent: 50px;
+font-weight: bold;
+}
+
+.border-left{
+    border-left: 2px solid black;
+    height: 100%;
+} 
+
+.big{
+    font-size: 36px;
+    
+}
+
+.small{
+    font-size: small;
+}
+
+.border-right{
+    border-right: 2px solid black;
+}
+
+figcaption{
+    font-size: 10px;
+    /* text-indent: 10px; */
+}
+img{
+    vertical-align:super;
+}
