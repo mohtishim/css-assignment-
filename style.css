@@ -44,7 +44,7 @@ figcaption{
     /* text-indent: 10px; */
 }
 
-/* .inline{
+/* /* .inline{
     display: inline-block;
    
 } */
@@ -52,10 +52,10 @@ figcaption{
 /* .text{
     vertical-align:text-top;
     display: inline-block;
-} */ */
+} */ 
 
 img{
     float: left;
-    
+   padding: 15px;
     
 }
