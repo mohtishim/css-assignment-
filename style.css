@@ -16,7 +16,7 @@ td{
     height: 100%;
 }
 
-p{
+.qoute{
 text-indent: 50px;
 font-weight: bold;
 }
@@ -43,6 +43,19 @@ figcaption{
     font-size: 10px;
     /* text-indent: 10px; */
 }
+
+/* .inline{
+    display: inline-block;
+   
+} */
+
+/* .text{
+    vertical-align:text-top;
+    display: inline-block;
+} */ */
+
 img{
-    vertical-align:super;
+    float: left;
+    
+    
 }
