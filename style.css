@@ -10,7 +10,7 @@ hr{
 }
 
 td{
-    width: 33.33%;
+    width: 33.333333%;
     text-align: justify;
     padding: 10px;
     height: 100%;
@@ -43,11 +43,16 @@ figcaption{
     font-size: 10px;
 }
 
-
+table {
+    table-layout: fixed;
+    width: 100%;
+  }
 
 figure{
     float: left;
-   padding: 0;
+    padding: 0;
     margin-left: 0px;
     margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8 px;
 }
